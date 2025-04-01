@@ -46,9 +46,9 @@ Como este é um projeto de estudo pessoal, não estou buscando contribuições e
 
 ## Autor
 
-[Seu Nome]
+[Caio ]
 
-[Seu Perfil do GitHub]
+[https://github.com/caiosid]
 
 ## Licença
 
